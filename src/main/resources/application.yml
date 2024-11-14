@@ -28,7 +28,7 @@ spring:
 server:
   port: 8080
 client:
-  address: http://localhost:3000
+  address: https://d1xsv7hzirldq2.cloudfront.net
 ---
 
 spring:
@@ -38,7 +38,7 @@ spring:
 server:
   port: 9090
 client:
-  address: http://localhost:3000
+  address: https://d1xsv7hzirldq2.cloudfront.net
 ---
 # ??? ?? ??
 spring:
